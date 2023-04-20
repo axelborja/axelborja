@@ -12,8 +12,8 @@
 -->
 
 ### Working on the following infrastructure:
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="GoogleCloudPlatform" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
